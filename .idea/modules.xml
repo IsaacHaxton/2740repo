@@ -3,7 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/2740repo.iml" filepath="$PROJECT_DIR$/.idea/2740repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2740sampCh02InvoiceApp/2740sampCh02InvoiceApp.iml" filepath="$PROJECT_DIR$/2740sampCh02InvoiceApp/2740sampCh02InvoiceApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2740sampCh02InvoiceAppB/2740sampCh02InvoiceAppB.iml" filepath="$PROJECT_DIR$/2740sampCh02InvoiceAppB/2740sampCh02InvoiceAppB.iml" />
       <module fileurl="file://$PROJECT_DIR$/ihaxton2740ex1a1/ihaxton2740ex1a1.iml" filepath="$PROJECT_DIR$/ihaxton2740ex1a1/ihaxton2740ex1a1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ihaxton2740ex1b1/ihaxton2740ex1b1.iml" filepath="$PROJECT_DIR$/ihaxton2740ex1b1/ihaxton2740ex1b1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ihaxton2740ex1c1/ihaxton2740ex1c1.iml" filepath="$PROJECT_DIR$/ihaxton2740ex1c1/ihaxton2740ex1c1.iml" />
     </modules>
   </component>
 </project>
